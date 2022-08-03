@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 4f76a0da27b13e841ae9e530c634a946
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2844216959244199053
+    second: eye4_0
+  - first:
+      213: -3714998780347291797
+    second: eye4_1
+  - first:
+      213: 5555822636835057083
+    second: eye4_2
+  - first:
+      213: 1537215416835898175
+    second: eye4_3
+  - first:
+      213: 8809817692081825545
+    second: eye4_4
+  - first:
+      213: -2252097349112989591
+    second: eye4_5
+  - first:
+      213: 4046944074757815271
+    second: eye4_6
+  - first:
+      213: 770491761612586453
+    second: eye4_7
+  - first:
+      213: -7784941539484418386
+    second: eye4_8
+  - first:
+      213: 4980287731576992147
+    second: eye4_9
+  - first:
+      213: 7235544493768934760
+    second: eye4_10
+  - first:
+      213: -8582100721845988306
+    second: eye4_11
+  - first:
+      213: -7392080926162154405
+    second: eye4_12
+  - first:
+      213: 2898689888732044276
+    second: eye4_13
+  - first:
+      213: 480863783159289773
+    second: eye4_14
+  - first:
+      213: 8612125075577539553
+    second: eye4_15
+  - first:
+      213: 6547266324457465136
+    second: eye4_0
+  - first:
+      213: -7030402343422495468
+    second: eye4_1
+  - first:
+      213: 4320215686256763002
+    second: eye4_2
+  - first:
+      213: -8944771967562190800
+    second: eye4_3
+  - first:
+      213: 7617685445200954136
+    second: eye4_4
+  - first:
+      213: 3573009913253915238
+    second: eye4_5
+  - first:
+      213: 4529856811074590346
+    second: eye4_6
+  - first:
+      213: 1820413894115211486
+    second: eye4_7
+  - first:
+      213: 8208886083048146503
+    second: eye4_8
+  - first:
+      213: 5113933761022356399
+    second: eye4_9
+  - first:
+      213: -855815808246238637
+    second: eye4_10
+  - first:
+      213: -7957484558150073932
+    second: eye4_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eye4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 317
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0352a2f78009cda50800000000000000
+      internalID: 6547266324457465136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 650
+        width: 316
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157a3c315efe6e90800000000000000
+      internalID: -7030402343422495468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 650
+        width: 317
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70a764f64d74fb30800000000000000
+      internalID: 4320215686256763002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_3
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 650
+        width: 317
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03075947949cdd380800000000000000
+      internalID: -8944771967562190800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 317
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813cddb5d8477b960800000000000000
+      internalID: 7617685445200954136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 325
+        width: 316
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ae272e591e59130800000000000000
+      internalID: 3573009913253915238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 325
+        width: 317
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a861c7bf4c84dde30800000000000000
+      internalID: 4529856811074590346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 325
+        width: 315
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed83ceeaac8634910800000000000000
+      internalID: 1820413894115211486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 317
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7468bb56662dbe170800000000000000
+      internalID: 8208886083048146503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 316
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6d9e29a758f640800000000000000
+      internalID: 5113933761022356399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 317
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b1548e088f14f0800000000000000
+      internalID: -855815808246238637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eye4_11
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 315
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b10fc574f5519190800000000000000
+      internalID: -7957484558150073932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

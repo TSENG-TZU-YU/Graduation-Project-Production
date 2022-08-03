@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 564a92d82e02338458c41aa5c22d3ffc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7494835165097135598
+    second: die02_0
+  - first:
+      213: 321153915360961291
+    second: die02_1
+  - first:
+      213: -8349660523920496257
+    second: die02_2
+  - first:
+      213: 7126470970557392355
+    second: die02_3
+  - first:
+      213: -6480448898991561688
+    second: die02_4
+  - first:
+      213: -925680689403209766
+    second: die02_5
+  - first:
+      213: -7818198400080136875
+    second: die02_6
+  - first:
+      213: 7860728353097809722
+    second: die02_7
+  - first:
+      213: -792597583508417648
+    second: die02_8
+  - first:
+      213: 7111899651256857584
+    second: die02_9
+  - first:
+      213: -5856936722047281025
+    second: die02_10
+  - first:
+      213: 3999748724659292265
+    second: die02_11
+  - first:
+      213: 2321671002562478085
+    second: die02_12
+  - first:
+      213: 566869821475740820
+    second: die02_13
+  - first:
+      213: -6600431461981143200
+    second: die02_14
+  - first:
+      213: 1058404350586483013
+    second: die02_15
+  - first:
+      213: 2795551520929977284
+    second: die02_16
+  - first:
+      213: -3328911603786062329
+    second: die02_17
+  - first:
+      213: 2960221820958085429
+    second: die02_18
+  - first:
+      213: 8400214618937451473
+    second: die02_19
+  - first:
+      213: 8958653133216130219
+    second: die02_20
+  - first:
+      213: 1979844426007198553
+    second: die02_21
+  - first:
+      213: 877590239019341414
+    second: die02_22
+  - first:
+      213: -3259088352384354625
+    second: die02_23
+  - first:
+      213: -4219893608378863561
+    second: die02_24
+  - first:
+      213: -1514893575864808604
+    second: die02_25
+  - first:
+      213: 3782770649453681763
+    second: die02_26
+  - first:
+      213: -2333550679286549573
+    second: die02_27
+  - first:
+      213: -7756405701002064116
+    second: die02_28
+  - first:
+      213: 3811635453688650985
+    second: die02_29
+  - first:
+      213: -4343462261761674885
+    second: die02_30
+  - first:
+      213: 649646575714792981
+    second: die02_31
+  - first:
+      213: -3823170850585706180
+    second: die02_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: die02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed88b19fd0030860800000000000000
+      internalID: 7494835165097135598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die02_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 90
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e053d8c7f47400800000000000000
+      internalID: 321153915360961291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: die02_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 90
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79ed9cedfb002c80800000000000000
+      internalID: -8349660523920496257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fc348e8a3224daf45a8e103384f05d2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
